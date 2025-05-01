@@ -2,12 +2,11 @@ name: Generate Snake Animation
 
 on:
   schedule:
-    - cron: "0 */12 * * *"  # A cada 12 horas
-  workflow_dispatch:
+    - cron: "0 */12 * * *"  # Executa a cada 12 horas
+  workflow_dispatch:         # Permite executar manualmente
 
 jobs:
   generate:
-    name: Generate contribution snake
     runs-on: ubuntu-latest
     steps:
       - name: Checkout do código
