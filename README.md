@@ -1,6 +1,6 @@
 ## 👋 Bem-vindo(a) ao meu perfil!
 
-Sou a Simone Batista, desenvolvedora Full Stack Júnior apaixonada por tecnologia, interfaces bonitas e soluções que fazem a diferença.  
+Sou a Simone Batista, desenvolvedora Full Stack apaixonada por tecnologia, interfaces bonitas e soluções que fazem a diferença.  
 Atualmente trabalho com **Laravel**, **Inertia.js (React)** e **TypeScript**, mas estou sempre aprendendo algo novo e evoluindo como dev!
 
 ---
