@@ -1,37 +1,41 @@
-## 👋 Bem-vindo(a) ao meu perfil!
+<h2 align="center">Simone Batista</h2>
 
-Sou a Simone Batista, desenvolvedora Full Stack apaixonada por tecnologia, interfaces bonitas e soluções que fazem a diferença.  
-Atualmente trabalho com **PHP**, **JavaScript**, **Laravel**, **Inertia.js (React)** e **TypeScript**, mas estou sempre aprendendo algo novo e evoluindo como dev!
+<p align="center">
+Desenvolvedora Full Stack focada em back-end e APIs
+</p>
 
 ---
 
+## 🧩 Sobre
 
-<div>
-  <a href="https://github.com/simonebatista23">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=simonebatista23&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=simonebatista23&layout=compact&langs_count=6&theme=tokyonight"/>
-</div>
+Desenvolvo sistemas completos com foco em organização, integração e escalabilidade.  
+Atualmente aprofundando conhecimentos em arquitetura e performance.
+
+---
+
+## 🛠️ Tecnologias
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=php,laravel,js,ts,react,mysql" />
+</p>
+
+---
+
+## 🚀 Projetos
+
+**Server Monitoring Simulator**  
+Sistema de monitoramento com dados simulados em tempo real.
+
+**Sistema de Suporte com IA**  
+Atendimento com triagem automática antes do suporte humano.
 
 
-<div style="display: inline_block">
-  <img align="center" alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="TypeScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
-  <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
- <img align="center" alt="Laravel" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-original.svg">
+---
 
-  <img align="center" alt="HTML5" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS3" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
-  <img align="center" alt="MySQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
-</div>
- 
- <br>
- 
-  ### Pra conteúdo sobre programação me segue nas redes abaixo!
- 
-<div> 
+## 🌐 Contato
 
-  <a href="https://www.linkedin.com/in/simone-batista-23-li" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- 
-
-</div>
+<p align="center">
+  <a href="https://www.linkedin.com/in/simone-batista-23-li">
+    <img src="https://img.shields.io/badge/LinkedIn-Perfil-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+</p>
