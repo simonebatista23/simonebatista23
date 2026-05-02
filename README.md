@@ -1,34 +1,42 @@
 <h2 align="center">Simone Batista</h2>
 
 <p align="center">
-Desenvolvedora Full Stack focada em back-end e APIs
+Desenvolvedora Full Stack focada em back-end, APIs e construção de sistemas bem estruturados.
 </p>
 
 ---
 
 ## 🧩 Sobre
 
-Desenvolvo sistemas completos com foco em organização, integração e escalabilidade.  
-Atualmente aprofundando conhecimentos em arquitetura e performance.
+Desenvolvo sistemas completos com foco em organização, integração e escalabilidade.
+
+Tenho experiência na construção de APIs, comunicação entre serviços e estruturação de aplicações reais, sempre buscando código limpo e soluções bem definidas.
+
+Atualmente evoluindo em arquitetura, performance e boas práticas no desenvolvimento back-end.
 
 ---
 
 ## 🛠️ Tecnologias
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=php,laravel,js,ts,react,mysql" />
+  <img src="https://skillicons.dev/icons?i=php,laravel,cs,dotnet,js,ts,react,mysql" />
 </p>
 
 ---
 
 ## 🚀 Projetos
 
-**Server Monitoring Simulator**  
-Sistema de monitoramento com dados simulados em tempo real.
+### Server Monitoring Simulator
+Simulação de monitoramento com envio de dados em tempo real, integração com API e visualização dinâmica.
 
-**Sistema de Suporte com IA**  
-Atendimento com triagem automática antes do suporte humano.
+### Sistema de Suporte
+Gerenciamento de chamados com apoio de assistente inteligente para auxiliar profissionais no atendimento.
 
+---
+
+## 🎯 Objetivo
+
+Evoluir para nível pleno no desenvolvimento back-end, aprofundando conhecimentos em arquitetura, performance e construção de sistemas mais robustos.
 
 ---
 
